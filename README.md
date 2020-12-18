@@ -1,3 +1,5 @@
 # Recommender-Systems-learning
 
-记录自己的推荐系统学习之路。
+Track my learning path！
+
+- Collaborative Filtering （CF）：http://datawhale.club/t/topic/41
